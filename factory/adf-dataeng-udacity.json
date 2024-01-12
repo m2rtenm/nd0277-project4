@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataeng-udacity",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "832c6456-d2bf-4efd-a52c-a3ca5b39d5d5",
+		"tenantId": "11255044-528a-4f08-b2f0-eb846ba2946b"
+	}
+}
