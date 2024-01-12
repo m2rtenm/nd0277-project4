@@ -87,7 +87,7 @@ In Azure Data Factory, create a linked service to the data lake that contains th
 **3. Create a Linked Service for Synapse Analytics**
 
 * Create a Linked Service to configure a connection to the built-in SQL pool in Azure Synapse Analytics
-* This Linked Service will enable you to access the employee and payroll data stored in the built-in SQL pool.
+* This Linked Service will enable you to access the employee and payroll data stored in the built-in SQL pool. In this case, no Udacity Cloud Lab was used. Instead, a personal account was used and therefore a dedicated SQL pool was created because when creating a linked service for Synapse Analytics, no built-in SQL pool could be found.
 
 <img src="screenshots/linked_services.png">
 
